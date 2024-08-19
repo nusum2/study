@@ -38,6 +38,9 @@ public class BoardController {
 	private BoardService boardService;
 	
 	
+	
+	
+	
 	//글쓰기 폼
 	@GetMapping("write")
 	public void write() {
