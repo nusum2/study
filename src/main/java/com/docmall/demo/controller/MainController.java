@@ -10,6 +10,6 @@ public class MainController {
 	@GetMapping("/")
 	@ResponseBody
 	public String rootUrl() {
-		return "<h3>스프링부트 배포 성공.</h3>";
+		return "<h3>스프링부트 배포 수정.</h3>";
 	}
 }
