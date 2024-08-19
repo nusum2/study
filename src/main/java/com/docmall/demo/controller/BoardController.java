@@ -39,6 +39,7 @@ public class BoardController {
 	
 	
 	
+	
 	//글쓰기 폼
 	@GetMapping("write")
 	public void write() {
